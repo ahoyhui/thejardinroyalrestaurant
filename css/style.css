@@ -1,0 +1,60 @@
+.jumbotron{
+	background-image:url('../Food.jpg');
+	background-size: cover;
+}
+
+#JR{
+	color:#FFFF66;
+	font-weight:bold;
+}
+
+#JRS{
+	color:#FFFF66;
+	font-weight:bold;
+}
+
+.text-center{
+	color:red;
+}
+
+#about1{
+	background-color:#FFFF99;
+}
+
+body{
+	background-color:#FFFF66;
+}
+
+#orderonline{
+	background-color:#FFFF99;
+}
+
+#contact1{
+	background-color:#FFFF99;
+}
+
+span{
+	color:red;
+	font-size:50px;
+	font-weight:bold;
+}
+
+h1{
+	color:red;
+}
+
+#portfolio{
+	background-color:#FFFF99;
+}
+
+p{
+	font-weight:bold;
+}
+
+li{
+	font-weight:bold;
+}
+
+#home{
+	position:static;
+}
